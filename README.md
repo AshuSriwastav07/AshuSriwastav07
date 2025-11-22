@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashu Sriwastav</h1>
-<h3 align="center">A passionate Android and Web Developer from India</h3>
+<h3 align="center">A passionate Android and Web Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on The Learners Community DU SOL and Startup-co-Pilot<br>🌱 I’m currently learning API, Frontend Development, and DSA & Android Development<br>👯 I’m looking to collaborate on NGO Finder<br>👨‍💻 All of my projects are available at https://github.com/AshuSriwastav07<br>💬 Ask me about Java, Kotlin, Python, SQLite, Web Development<br>📫 How to reach me ashusriwastav58@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/ashu-sriwastav-949b09272/
