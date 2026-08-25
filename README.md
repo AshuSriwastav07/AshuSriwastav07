@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashu Sriwastav</h1><p align="center">
-  <img src="https://github-arts-creator.vercel.app/api/avatar/e1ef4c3173f60c36e05cd7f9bf269a4ac1775a5b.svg" width="300" alt="AshuSriwastav07's GitHub avatar art — Halftone" />
+  <img src="http://localhost:3000/api/avatar/5a51d0c875272a5d8cca938d03dde4664969c879.svg" width="300" alt="AshuSriwastav07's GitHub avatar art — Halftone" />
 </p>
 <h3 align="center">A passionate Android and Web Developer</h3>
 
