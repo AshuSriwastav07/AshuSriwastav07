@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ashu Sriwastav</h1>
 <p align="center">
   <img src="https://github-arts-creator.vercel.app/api/avatar/5a6e4631ea05e27e719f31a18dce3e66e52708b5.svg" width="900" alt="AshuSriwastav07's GitHub avatar art — Halftone" />
 </p>
